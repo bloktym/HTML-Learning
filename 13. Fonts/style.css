@@ -1,0 +1,21 @@
+@font-face  {
+    src: url(fonts/MomoSignature-Regular.ttf);
+    font-family: Momo;
+    
+}
+@font-face{
+    src: url(fonts/Redaction35-Regular.ttf);
+    font-family: Redac35;
+}
+
+h1{
+    font-family: "Momo", arial;
+}
+
+
+p{
+    font-family: "Redac35", "courier new";  
+    font-size: 1em;
+    
+    
+}
