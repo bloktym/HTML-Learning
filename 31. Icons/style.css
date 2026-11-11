@@ -1,0 +1,35 @@
+.icons{
+    text-align: center;
+}
+
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-house.fa-5x{
+    color: hsl(0, 80%, 48%)
+}
+.fa-house.fa-5x:hover{
+    color: hsl(0, 80%, 58%)
+}
+
+.fa-user{
+    color: hsl(240, 100%, 50%);
+}
+.fa-user:hover{
+    color: hsl(240, 100%, 60%);
+}
+
+.fa-instagram{
+    color: hsl(310, 89%, 51%);
+}
+.fa-instagram:hover{
+    color: hsl(310, 89%, 61%);
+}
+
+.fa-headphones{
+    color: hsl(160, 100%, 75%);
+}
+.fa-headphones:hover{
+    color: hsl(160, 100%, 85%);
+}
